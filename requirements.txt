@@ -3,3 +3,5 @@ langchain
 langchainhub
 requests
 langchain-openai
+langchain_community
+langchain_ollama
